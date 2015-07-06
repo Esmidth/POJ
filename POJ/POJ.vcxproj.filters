@@ -1,0 +1,291 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="源文件\LV1">
+      <UniqueIdentifier>{c44df294-0c1f-492e-8d2b-da6d893ebcf9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LV1\I.Basis">
+      <UniqueIdentifier>{c4e4b70e-7cb6-4bfc-b37f-dc35c74fbda0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LV1\I.Basis\1068">
+      <UniqueIdentifier>{97f2078e-478b-4aa2-b177-a0bf4bebd00d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LV1\I.Basis\1573">
+      <UniqueIdentifier>{9be76522-00b8-4119-90ec-d3c46956a938}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LV1\I.Basis\2632">
+      <UniqueIdentifier>{b67230f7-a748-470f-bf50-b7ef13be9dfa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LV1\I.Basis\2993">
+      <UniqueIdentifier>{90101461-d083-49bd-9dad-a80f8e119fd4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LV1\I.Basis\2996">
+      <UniqueIdentifier>{685ba878-de86-4fb9-8cb6-ca66a9552861}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LV1\I.Basis\3295">
+      <UniqueIdentifier>{482728cc-45d5-41ea-8a3e-b644cbd8070b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LV1\I.Basis\2965">
+      <UniqueIdentifier>{77cd41b2-c7bd-47f2-bae3-64e4c08d4e20}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LV1\I.Basis\1753">
+      <UniqueIdentifier>{3cc4a202-3788-4813-96d9-19bde4a11f56}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LV1\III.DataStructure">
+      <UniqueIdentifier>{b65033a1-4529-42f1-bdba-3813df6f7a98}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LV1\II.Map">
+      <UniqueIdentifier>{46c897e4-b40a-40c5-85d1-bd0a2854941f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LV1\II.Map\3436">
+      <UniqueIdentifier>{c101f0a2-bfd9-403c-80d7-af70a5883af0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LV1\II.Map\1062">
+      <UniqueIdentifier>{55d28ef4-c9e5-4db2-b267-d4ce79447867}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LV1\II.Map\1125">
+      <UniqueIdentifier>{0b71ef27-664d-4a06-a0d5-95a47501bfa1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LV1\II.Map\1258">
+      <UniqueIdentifier>{ea655767-fe8c-4d72-ab84-9e3a97876aac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LV1\II.Map\1789">
+      <UniqueIdentifier>{db3a7a97-10c8-4edb-8a8a-29d6cbfa86fa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LV1\II.Map\1860">
+      <UniqueIdentifier>{ea02ac76-dfe0-4a46-98ff-479c28119573}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LV1\II.Map\2240">
+      <UniqueIdentifier>{1944ae88-39d4-4fc7-8700-e9f242b3d584}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LV1\II.Map\2253">
+      <UniqueIdentifier>{1ca8fe8e-f566-408f-a550-2e7ebf57553c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LV1\II.Map\2485">
+      <UniqueIdentifier>{67f526d6-f8ae-4324-970a-70c5631c7261}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LV1\II.Map\3020">
+      <UniqueIdentifier>{aebc5273-76f3-4bb5-8e94-4d1207c66c8e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LV1\II.Map\3026">
+      <UniqueIdentifier>{52a35244-239c-4988-b5ad-72de97852fcb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LV1\II.Map\3041">
+      <UniqueIdentifier>{7819bbba-bd65-4076-b18f-c9c405341a3f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LV1\II.Map\3259">
+      <UniqueIdentifier>{bf1a45c0-f631-4df8-98da-e88ab7a0f193}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LV1\II.Map\1459">
+      <UniqueIdentifier>{a767ece9-f784-46bf-85b2-24b28fc80ec0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LV1\III.DataStructure\2513">
+      <UniqueIdentifier>{ca6271ae-88ac-4324-850b-2fadbe2fb55a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LV1\III.DataStructure\1035">
+      <UniqueIdentifier>{098c932b-5c16-417e-bf10-a45710dc6351}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LV1\III.DataStructure\3080">
+      <UniqueIdentifier>{33cf03d3-be8a-482b-be51-56e3497afffb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LV1\III.DataStructure\1936">
+      <UniqueIdentifier>{6c2469f5-d1c1-417f-aaf6-65ef8fc41785}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LV1\III.DataStructure\2388">
+      <UniqueIdentifier>{49400e45-fd69-4d2f-926c-814436329aff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LV1\III.DataStructure\2299">
+      <UniqueIdentifier>{4b8f369b-4031-4bbe-901f-008282bd8525}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LV1\III.DataStructure\3349">
+      <UniqueIdentifier>{f33694e3-22a4-4798-8956-bcc03e2012a8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LV1\III.DataStructure\3274">
+      <UniqueIdentifier>{9c97d0c5-94c6-4b50-a4c0-804deb2b63c7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LV1\III.DataStructure\2151">
+      <UniqueIdentifier>{01627c1e-fb41-4670-a3a8-065c99af9cfd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LV1\III.DataStructure\1840">
+      <UniqueIdentifier>{91d2d6aa-761c-4ea4-b80b-85392e55fdc1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LV1\III.DataStructure\2002">
+      <UniqueIdentifier>{d51fdf88-e4fb-46cc-846c-6f92dbe76952}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LV1\III.DataStructure\2503">
+      <UniqueIdentifier>{2738d8be-c53a-4782-9ada-d9a14412cebe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LV1\III.DataStructure\3253">
+      <UniqueIdentifier>{eed35d2d-271d-45fb-b610-befca71a5dce}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LV1\IV.SimpleSearch">
+      <UniqueIdentifier>{8c40960e-5a1e-43eb-8e82-1de4521ed634}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LV1\IV.SimpleSearch\1129">
+      <UniqueIdentifier>{3754bebf-44a4-4fc2-89e3-9bde0bf53570}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LV1\IV.SimpleSearch\2488">
+      <UniqueIdentifier>{820132e2-546c-4a24-9dd9-cb1eb6a210b2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LV1\IV.SimpleSearch\3083">
+      <UniqueIdentifier>{6171faec-b38f-4d40-8730-24547f50080c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LV1\IV.SimpleSearch\3009">
+      <UniqueIdentifier>{d4342f4a-3c5c-49d0-9e66-7b1d614fed84}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LV1\IV.SimpleSearch\1321">
+      <UniqueIdentifier>{2aa1efff-3cdc-48e3-88af-090ef4d30e42}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LV1\IV.SimpleSearch\2251">
+      <UniqueIdentifier>{003b9be2-22bb-429b-aa79-ce21f662761f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LV1\IV.SimpleSearch\3278">
+      <UniqueIdentifier>{173a2346-6c8f-4d35-a4da-cc2517773f81}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LV1\IV.SimpleSearch\1426">
+      <UniqueIdentifier>{0a569056-d434-4d36-852b-4c2ad1620ed8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LV1\IV.SimpleSearch\3126">
+      <UniqueIdentifier>{ba94125d-8040-4c28-ae05-84698d5a38dd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LV1\IV.SimpleSearch\3087">
+      <UniqueIdentifier>{ac2a3bb6-e1e2-47af-9069-d1ea647d5f44}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LV1\IV.SimpleSearch\3414">
+      <UniqueIdentifier>{6bc03407-cca6-4ace-beb9-ce8507774631}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LV1\IV.SimpleSearch\2531">
+      <UniqueIdentifier>{4218a50b-fd99-4c5a-8a00-95e978abbf0e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LV1\IV.SimpleSearch\1416">
+      <UniqueIdentifier>{9d5f3c23-2d1e-4b54-8209-82b59263980e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LV1\IV.SimpleSearch\2676">
+      <UniqueIdentifier>{41448e1f-678b-44db-b1a7-6339e4135b53}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LV1\VI.Math">
+      <UniqueIdentifier>{e5bb46c6-2d41-49d7-88ac-f71f475fb0c7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LV1\VI.Math\3122">
+      <UniqueIdentifier>{8c9a3cfc-e631-4d91-b352-c7922e137301}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LV1\VI.Math\3252">
+      <UniqueIdentifier>{dc525fbb-7d92-4798-a345-b020540423da}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LV1\VI.Math\1850">
+      <UniqueIdentifier>{e73f9cee-993a-4aea-98f3-1efdc360ba5f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LV1\VI.Math\1019">
+      <UniqueIdentifier>{765d0ee9-6945-40b9-a60b-df2e68ef2c34}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LV1\VI.Math\1942">
+      <UniqueIdentifier>{5157fb28-3971-48ec-ad1f-aab33c0efebd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LV1\VI.Math\2635">
+      <UniqueIdentifier>{b9639afd-2bf1-4e06-ad7c-ca32e607f12d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LV1\VI.Math\3292">
+      <UniqueIdentifier>{e7b4bc3a-a6d3-487c-9d27-d42e6825b44e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LV1\VI.Math\1845">
+      <UniqueIdentifier>{9638eba8-cad0-43f7-8969-12bd2becd3fe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LV1\VI.Math\2115">
+      <UniqueIdentifier>{34ffdd4d-4fa6-4625-bdaa-024eb41e61d3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LV1\VI.Math\3273">
+      <UniqueIdentifier>{010d7486-41f7-4d33-9695-71c2781906db}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LV1\VI.Math\3258">
+      <UniqueIdentifier>{10746f64-cb87-4551-96a3-5297fb89f1a8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LV1\VI.Math\1905">
+      <UniqueIdentifier>{e4a56c04-1ac9-419b-9573-a1ef4baebf16}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LV1\V.DynamciProgramming">
+      <UniqueIdentifier>{4ebd1fe9-0ffc-4377-a350-b5856437b253}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LV1\V.DynamciProgramming\1159">
+      <UniqueIdentifier>{0c31f38d-5e66-4df5-8e74-818fbc436733}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LV1\V.DynamciProgramming\1837">
+      <UniqueIdentifier>{32f3cee7-6314-418a-b6b8-fddb38ac05eb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LV1\V.DynamciProgramming\1276">
+      <UniqueIdentifier>{e172c4dd-a024-4d8c-87b6-8d177af53767}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LV1\V.DynamciProgramming\3267">
+      <UniqueIdentifier>{5bc0c7c0-719a-416d-83cc-6b7fdafa4df2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LV1\V.DynamciProgramming\1836">
+      <UniqueIdentifier>{a55168b3-7842-4673-9ce6-191a40790af2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LV1\V.DynamciProgramming\1260">
+      <UniqueIdentifier>{bb31837a-c71a-46bd-b94f-66015d85feb0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LV1\V.DynamciProgramming\2533">
+      <UniqueIdentifier>{cfe475c6-f5b2-48fd-944e-17ca549fb31e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LV1\V.DynamciProgramming\3176">
+      <UniqueIdentifier>{e98f91d3-cf59-49c7-a6bc-baaf28e2e76d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LV1\V.DynamciProgramming\1080">
+      <UniqueIdentifier>{bbc27ed3-91e0-49af-aa89-75bfe2db4319}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LV1\VII.ComputingGraph">
+      <UniqueIdentifier>{a8cd11db-7fa4-4ea8-aebf-508a19d7fe80}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LV1\VII.ComputingGraph\2031">
+      <UniqueIdentifier>{15b2a354-0b10-42dd-bd7e-b73dd19f210d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LV1\VII.ComputingGraph\1039">
+      <UniqueIdentifier>{1c38c69b-b581-4036-b1b9-4fac7108cdef}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LV1\VII.ComputingGraph\1408">
+      <UniqueIdentifier>{fb131194-4cf3-4b95-8b36-8143d29f9ff8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LV1\VII.ComputingGraph\1584">
+      <UniqueIdentifier>{55e773ae-0187-4dca-882a-746f7fd2f492}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LV1\VII.ComputingGraph\2187">
+      <UniqueIdentifier>{564db7b7-c523-475d-92bd-8bf48331ae8f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\LV1\VII.ComputingGraph\1113">
+      <UniqueIdentifier>{a8c781d3-c58f-4ff4-b57e-af01031219b5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="POJ.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="HelloWorld1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
