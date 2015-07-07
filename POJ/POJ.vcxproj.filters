@@ -287,5 +287,8 @@
     <ClCompile Include="HelloWorld1.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1068.cpp">
+      <Filter>源文件\LV1\I.Basis\1068</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
