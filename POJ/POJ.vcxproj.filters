@@ -290,5 +290,14 @@
     <ClCompile Include="1068.cpp">
       <Filter>源文件\LV1\I.Basis\1068</Filter>
     </ClCompile>
+    <ClCompile Include="1753.cpp">
+      <Filter>源文件\LV1\I.Basis\1753</Filter>
+    </ClCompile>
+    <ClCompile Include="2965.cpp">
+      <Filter>源文件\LV1\I.Basis\2965</Filter>
+    </ClCompile>
+    <ClCompile Include="2965v2.cpp">
+      <Filter>源文件\LV1\I.Basis\2965</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
