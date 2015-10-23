@@ -265,6 +265,9 @@
     <Filter Include="源文件\LV1\VII.ComputingGraph\1113">
       <UniqueIdentifier>{a8c781d3-c58f-4ff4-b57e-af01031219b5}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\LV1\I.Basis\1001">
+      <UniqueIdentifier>{83f143d8-3317-415d-94d9-c3ca86124945}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <Text Include="ReadMe.txt" />
@@ -298,6 +301,15 @@
     </ClCompile>
     <ClCompile Include="2965v2.cpp">
       <Filter>源文件\LV1\I.Basis\2965</Filter>
+    </ClCompile>
+    <ClCompile Include="1001.cpp">
+      <Filter>源文件\LV1\I.Basis\1001</Filter>
+    </ClCompile>
+    <ClCompile Include="1001v2%28WA%29.cpp">
+      <Filter>源文件\LV1\I.Basis\1001</Filter>
+    </ClCompile>
+    <ClCompile Include="1001Ref.cpp">
+      <Filter>源文件\LV1\I.Basis\1001</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
