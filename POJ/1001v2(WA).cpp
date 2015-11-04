@@ -3,6 +3,7 @@
 #include "stdafx.h"
 #include <iostream>
 #include <vector>
+#include <stdio.h>
 #include <string>
 
 using namespace std;
@@ -145,9 +146,10 @@ void testMultiply()
 */
 int main()
 {
+	cout << "V2" << endl;
 	string R;
 	int n;
-	while(cin >> R >> n)
+	while(scanf("%s%n",&R,&n) != EOF)
 	{
 		output(mul(input(R), n));
 	}

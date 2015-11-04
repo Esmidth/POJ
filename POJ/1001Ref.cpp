@@ -31,7 +31,8 @@ void mul()
 		res[lena + lenb - 1] %= 10;
 	}
 	lena = lena + lenb;
-	for (i = 1; i <= lena; i++) a[i] = res[i];
+	for (i = 1; i <= lena; i++) 
+		a[i] = res[i];
 }
 
 int main()
@@ -42,12 +43,17 @@ int main()
 		dot = -1;
 		for (i = 5, j = 1; i >= 0; i--)
 		{
-			if (str[i] != '.') a[j] = b[j++] = str[i] - '0';
-			else dot = i;
+			if (str[i] != '.')
+				a[j] = b[j++] = str[i] - '0';
+			else 
+				dot = i;
 		}
-		if (dot == -1) lena = lenb = 6;
-		else lena = lenb = 5;
-		for (i = 1; i<n; i++) mul();
+		if (dot == -1)
+			lena = lenb = 6;
+		else 
+			lena = lenb = 5;
+		for (i = 1; i<n; i++) 
+			mul();
 		if (dot == -1)
 		{
 			for (i = lena; i >= 1; i--) printf("%d", a[i]);
